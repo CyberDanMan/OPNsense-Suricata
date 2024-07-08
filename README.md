@@ -1,2 +1,2 @@
 # OPNsense-Suricata
-Configure Suricata for OPNsense
+Configure Suricata IDS/IPS for OPNsense
